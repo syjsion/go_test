@@ -1,2 +1,3 @@
 # go_test
-go test
+go test!
+
